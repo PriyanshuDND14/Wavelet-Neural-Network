@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch Model Weights
+*.pth
+*.pt
+*.ckpt
+
+# Datasets
+/data/
+*.csv
+*.npy
+*.npz
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+wnn_project/
+
+# IDE / OS files
+.vscode/
+.idea/
+.DS_Store
